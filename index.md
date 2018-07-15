@@ -11,6 +11,8 @@ To level up, you must visit Gloomhaven. Leveling up means you gain more hit poin
 
 Gloomhaven also levels up or "gains prosperity" over time. Leveling up Gloomhaven means more items are for sale there. Prosperity is tracked on the campaign board (bottom).  
 
+When you visit Gloomhaven, you can play a city card, which will provide you with choices. The outcomes are usually good (compare with road cards, see below).  
+
 ## Scenarios 
 
 The game consists of 95 scenarios, some of which are linked. You can track your progress through the game using the campaign board, which is mostly a map.  
@@ -62,6 +64,14 @@ The personal quest is your character's primary goal in the campaign, meaning the
 ## Traveling 
 
 Unless scenarios are linked, you need to draw a road card to travel from place to place (or scenario to scenario) on the campaign board. Road cards present you with choices. Once you decide, you flip over the card to see the results of your decision. Road cards are either placed back in the deck or discarded altogether after they are played. (See the icon in the bottom right of results to determine whether to shuffle it back into the deck or discard it.) 
+
+## Personal Quest 
+
+Once you complete the personal quest listed on your personal quest card, you must return to Gloomhaven and retire your character. You then select a new character, unlock new game content, open the town records book, and increase the town's prosperity.  
+
+## New Characters 
+
+When you create a new character, it enters the game at the prosperity level of Gloomhaven (not level 1). 
 
 ## References 
 
